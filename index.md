@@ -1,6 +1,6 @@
 ---
-title: HAI-GEN Workshop at IUI 2021
-subtitle: 2nd Workshop on Human-AI Co-Creation with Generative Models
+title: HAI-GEN Workshop at IUI 2022
+subtitle: 3nd Workshop on Human-AI Co-Creation with Generative Models
 layout: page
 <!-- callouts: home_callouts -->
 show_sidebar: true
