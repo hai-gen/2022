@@ -1,18 +1,18 @@
 # Site Settings
-title: HAI-GEN 2021
+title: HAI-GEN 2022
 tagline: IUI Workshop on Human-AI Co-Creation with Generative Models
-email: chilton@cs.columbia.edu
+email: jweisz@us.ibm.com
 description: >
-  2nd Workshop on Human-AI Co-Creation with Generative Models
+  3rd Workshop on Human-AI Co-Creation with Generative Models
 # baseurl: "/bulma-clean-theme"
-url: "https://hai-gen2021.github.io"
+url: "https://hai-gen2022.github.io"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: favicon.png
 # gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 
-paginate: 5
-paginate_path: "/blog/page:num"
+#paginate: 5
+#paginate_path: "/blog/page:num"
 
 # Disqus Comments
 disqus:
