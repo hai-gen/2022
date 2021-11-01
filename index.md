@@ -24,4 +24,4 @@ The central question of our workshop is <b>how can we build co-creative systems 
 
 # Participation & Submissions
 
-HAI-GEN 2022 will be held virtually. Submissions will take the form of papers and demos, following the IUI paper and demo guidelines. Please see the [Call for Participation](cfp) for relevant topics and submission instructions.
+<strong>HAI-GEN 2022 will be held virtually</strong>. Submissions will take the form of papers and demos, following the IUI paper and demo guidelines. Please see the [Call for Participation](cfp) for relevant topics and submission instructions.
