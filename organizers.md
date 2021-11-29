@@ -103,4 +103,15 @@ show_sidebar: false
 
 # Program Committee
 
-Coming soon
+* Maya Ackerman, Santa Clara University
+* Daniel Buschek, University of Bayreuth
+* Sebastian Gehrmann, Google
+* Katy Gero, Columbia University
+* Kaz Grace, The University of Sydney
+* Anna Huang, Google
+* Narendra Nath Joshi, IBM Research AI
+* Ryan Louie, Northwestern University
+* Michael Mateas, University of California, Santa Cruz
+* Michael Muller, IBM Research AI
+* Jeb Rezwana, University of North Carolina, Charlotte
+
