@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-info">
     <p>
-    <strong>Oct 18: We're back! The 3rd HAI-GEN Workshop has been accepted into the IUI program.</strong>
+    <strong>Jan 3 Update: We've extended the submission deadline until January 9, 2022 AoE.</strong>
     </p>
 </div>
 
