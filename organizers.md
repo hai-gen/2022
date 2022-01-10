@@ -113,5 +113,5 @@ show_sidebar: false
 * Ryan Louie, Northwestern University
 * Michael Mateas, University of California, Santa Cruz
 * Michael Muller, IBM Research AI
-* Jeb Rezwana, University of North Carolina, Charlotte
+* Jeba Rezwana, University of North Carolina, Charlotte
 
