@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-info">
     <p>
-    <strong>Jan 3 Update: We've extended the submission deadline until January 9, 2022 AoE.</strong>
+    <strong>Jan 10 Update: The submission deadline has now passed and we are beginning the reviewing process. Notifications will be sent on January 28th.</strong>
     </p>
 </div>
 
