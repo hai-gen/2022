@@ -114,4 +114,5 @@ show_sidebar: false
 * Michael Mateas, University of California, Santa Cruz
 * Michael Muller, IBM Research AI
 * Jeba Rezwana, University of North Carolina, Charlotte
+* Steven Ross, IBM Research AI
 
