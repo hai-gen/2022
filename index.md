@@ -8,7 +8,10 @@ show_sidebar: true
 
 <div class="notification is-info">
     <p>
-    <strong>Jan 10 Update: The submission deadline has now passed and we are beginning the reviewing process. Notifications will be sent on January 28th.</strong>
+    <strong>Jan 28 Update: Reviews have been sent to authors. Congratulations to those whose papers were accepted! Instructions for formatting and submitting camera-ready submissions are coming soon.</strong>
+    </p>
+    <p>
+    <strong>Jan 28 Update #2: <a href="http://www.cogconfluence.com">Sarah Schwettmann</a> is our keynote speaker. Hooray! 👏</strong>
     </p>
 </div>
 
