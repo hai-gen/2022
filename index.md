@@ -7,12 +7,7 @@ show_sidebar: true
 ---
 
 <div class="notification is-info">
-    <p>
-    <strong>Jan 28 Update: Reviews have been sent to authors. Congratulations to those whose papers were accepted! Instructions for formatting and submitting camera-ready submissions are coming soon.</strong>
-    </p>
-    <p>
-    <strong>Jan 28 Update #2: <a href="http://www.cogconfluence.com">Sarah Schwettmann</a> is our keynote speaker. Hooray! 👏</strong>
-    </p>
+    <p><strong>Feb 23 Update: Due to an IUI scheduling change, our workshop will now be held on <emph>Monday, March 21</emph>. The full program will be published soon.</strong></p>
 </div>
 
 # Workshop Description
