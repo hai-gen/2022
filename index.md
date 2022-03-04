@@ -7,7 +7,7 @@ show_sidebar: true
 ---
 
 <div class="notification is-info">
-    <p><strong>Feb 23 Update: Due to an IUI scheduling change, our workshop will now be held on <emph>Monday, March 21</emph>. The full program will be published soon.</strong></p>
+    <p><strong>March 4 Update: We have published the <a href="program/">full workshop program</a>. See you at IUI!</strong></p>
 </div>
 
 # Workshop Description
