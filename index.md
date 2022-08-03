@@ -7,7 +7,7 @@ show_sidebar: true
 ---
 
 <div class="notification is-info">
-    <p><strong>March 4 Update: We have published the <a href="program/">full workshop program</a>. See you at IUI!</strong></p>
+    <p><strong>Aug 3: Workshop proceedings have been published in CEUR: <a href="http://ceur-ws.org/Vol-3124/">http://ceur-ws.org/Vol-3124/</a></strong></p>
 </div>
 
 # Workshop Description
